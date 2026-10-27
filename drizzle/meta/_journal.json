@@ -8,6 +8,13 @@
       "when": 1793090892818,
       "tag": "0000_safe_agent_zero",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1793101058543,
+      "tag": "0001_odd_red_wolf",
+      "breakpoints": true
     }
   ]
 }
