@@ -53,3 +53,4 @@ describe("Users Registration & Route", () => {
     expect(err.message).toBe("Email sudah terdaftar");
   });
 });
+
